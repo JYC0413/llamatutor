@@ -42,7 +42,7 @@ const Hero: FC<THeroProps> = ({
             height={20}
           />
           <span className="text-center text-sm font-medium italic">
-            Powered by <b>GaiaNet</b>
+            Powered by <b>Gaia</b>
           </span>
         </a>
         <h2 className="mt-2 bg-custom-gradient bg-clip-text text-center text-4xl font-medium tracking-tight text-gray-900 sm:text-6xl">
